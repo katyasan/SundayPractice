@@ -4,5 +4,6 @@ public class testCase6 {
         System.out.println("second");
         System.out.println("third");
         System.out.println("qwe");
+        System.out.println("qwwedgdjg");
     }
 }
