@@ -3,5 +3,6 @@ public class testCase6 {
         System.out.println("first");
         System.out.println("second");
         System.out.println("third");
+        System.out.println("qwe");
     }
 }
